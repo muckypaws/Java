@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{66355F20-A65B-11D0-BFB5-00A0C91EBFA0}") = "Blitz", "Blitz.vjp", "{55FC5F21-74AE-11D2-AEE3-96EDC2CF3D64}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {55FC5F21-74AE-11D2-AEE3-96EDC2CF3D64}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+		0 = {55FC5F21-74AE-11D2-AEE3-96EDC2CF3D64}
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal
